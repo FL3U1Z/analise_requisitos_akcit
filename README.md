@@ -1,6 +1,6 @@
 # Engenharia de Requisitos com GenAI — Exercício Prático (Unidade III)
 
-Análise e especificação de requisitos do **Sistema de Gestão de Eventos** da empresa Eventus, produzidos a partir do documento de elicitação fornecido na atividade 3.4.
+Análise e especificação de requisitos do **Sistema de Gestão de Eventos** da empresa Eventus, produzidos a partir do documento de elicitação fornecido na atividade.
 
 ## Estrutura
 
